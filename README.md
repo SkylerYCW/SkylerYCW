@@ -1,5 +1,4 @@
 ## Hi there, I'm Skyler Wang.
-🇹🇼
 
 <h3 align="left"> 👉 Languages and Tools:</h3>
 
