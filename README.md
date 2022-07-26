@@ -9,8 +9,11 @@
       alt="cplusplus" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" />
-
-
+<img src="https://raw.githubusercontent.com/file-icons/source/master/svg/Verilog.svg?sanitize=true" alt="python"
+      width="40" height="40" />
+<img src="https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg?sanitize=true" alt="python"
+      width="40" height="40" />
+      
 🎵 Music
 💻
 
