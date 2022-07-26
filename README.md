@@ -12,7 +12,7 @@
 <a href="https://www.verilog.com/" target="blank"><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/Verilog.svg" alt="Verilog"
       width="40" height="40" /> </a>
 <a href="https://www.systemverilog.io/" target="blank"><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg" alt="SystemVerilog"
-      width="40" height="40" /> </a>
+      width="40" height="40" />
       
 </h3>
       
