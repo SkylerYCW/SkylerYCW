@@ -9,9 +9,9 @@
 <a href="https://www.systemverilog.io/" target="blank"> <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg" alt="SystemVerilog" width="40" height="40" /> </a>
 
 <h3 align="left"> 👉 Software and Tools:</h3>
-<a href="https://git-scm.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="SystemVerilog" width="40" height="40" /> </a>
-<a href="https://git-scm.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="SystemVerilog" width="40" height="40" /> </a>
-<a href="https://git-scm.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="SystemVerilog" width="40" height="40" /> </a>
+<a href="https://git-scm.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a>
+<a href="https://github.com/YCWmumu" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" /> </a>
+<a href="https://git-scm.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /> </a>
 
 <br>
 
