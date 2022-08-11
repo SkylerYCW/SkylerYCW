@@ -28,7 +28,7 @@
 
 <br>
 
-🎵 Music
+<h3 align="left"> 🎵 Music</h3>
 <br>
 💻
 
