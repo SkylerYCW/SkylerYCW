@@ -4,7 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=NCTU+EE+(NYCU+ECE);Electronic+Engineering+Student;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-
 <h3 align="left"> 👉 Programming Languages:</h3>
 
 <a href="https://www.cprogramming.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
