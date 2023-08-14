@@ -1,7 +1,7 @@
 ## Hi there, I'm Skyler Wang.
 
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E99F7&background=FFFFFF00&width=435&lines=NCTU+EE+(NYCU+ECE);Electronic+Engineering+Student;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E99F7&background=FFFFFF00&width=435&lines=NCTU+EE(NYCU+ECE)+-%3E+USC+EE;Electrical+Engineering+Student;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="left"> 👉 Programming Languages:</h3>
