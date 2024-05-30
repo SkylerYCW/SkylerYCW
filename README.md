@@ -24,12 +24,3 @@
 <a href="https://www.linkedin.com/in/skyler-wang" target="blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40" /> </a>
 <a href="https://www.facebook.com/yochwen.wang" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="40" height="40" /> </a>
 <a href="https://www.instagram.com/ckmg14_ycwang/" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40" /> </a>
-
-<br>
-
-<h4 align="left"> 🎵 Music</h4>
-
-<br>
-
-<h4 align="left"> 💻</h4>
-
